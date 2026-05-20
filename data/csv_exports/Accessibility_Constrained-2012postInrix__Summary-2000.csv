@@ -1,0 +1,105 @@
+Area,MinA_E(10),MinA_E(20),MinA_E(30),MinA_E(40),MinA_E(50),MinA_E(60),MinA_E(70),MinA_E(80),MinA_E(90),,Total,MinA_E(10),MinA_E(20-10),MinA_E(30-20),MinA_E(40-30),MinA_E(50-40),MinA_E(60-50),MinA_E(70-60),MinA_E(80-70),MinA_E(90-80),,SUM,,Weighted Employment Accessibility,Rank,Area,10,20,30,40,50,60,Area
+Atlanta,52581,231187,551848,1020889,1641561,2129188,2129188,2129188,2129188,,2129189,52581,178606,320661,469041,620673,487627,0,0,0,,2129188,,123276,36,Atlanta,50,49,41,22,12,8,Atlanta
+Austin,89210,363948,580485,580485,580485,580485,580485,580485,580485,,580485,89210,274738,216537,0,0,0,0,0,0,,580485,,115197,41,Austin,29,30,38,40,40,40,Austin
+Baltimore,94682,414861,981495,1063684,1063684,1063684,1063684,1063684,1063684,,1063684,94682,320179,566634,82189,0,0,0,0,0,,1063684,,161940,17,Baltimore,24,21,9,19,20,20,Baltimore
+Boston,124141,547326,1301384,2377265,3075331,3075331,3075331,3075331,3075331,,3075332,124141,423185,754058,1075882,698066,0,0,0,0,,3075331,,266267,4,Boston,9,7,3,2,3,4,Boston
+Buffalo,96551,411771,475627,475627,475627,475627,475627,475627,475627,,475628,96551,315221,63856,0,0,0,0,0,0,,475627,,112818,43,Buffalo,23,22,48,48,48,48,Buffalo
+Charlotte,98202,439530,811507,811507,811507,811507,811507,811507,811507,,811507,98202,341328,371977,0,0,0,0,0,0,,811507,,146783,25,Charlotte,22,20,19,30,30,30,Charlotte
+Chicago,85240,369423,872200,1599791,2561443,3753371,4189789,4189789,4189789,,4189789,85240,284183,502777,727591,961652,1191928,436418,0,0,,4189789,,199982,7,Chicago,32,29,15,7,5,3,Chicago
+Cincinnati,82680,374497,879322,934953,934953,934953,934953,934953,934953,,934953,82680,291817,504825,55631,0,0,0,0,0,,934953,,144132,27,Cincinnati,34,28,13,24,24,24,Cincinnati
+Cleveland,133427,590453,1077676,1077676,1077676,1077676,1077676,1077676,1077676,,1077676,133427,457026,487223,0,0,0,0,0,0,,1077676,,196425,8,Cleveland,6,5,6,18,19,19,Cleveland
+Columbus,138769,604482,773508,773508,773508,773508,773508,773508,773508,,773508,138769,465713,169026,0,0,0,0,0,0,,773508,,171712,13,Columbus,5,3,25,32,32,32,Columbus
+Dallas-Fort Worth,111075,469360,1108972,2043538,2601083,2601083,2601083,2601083,2601083,,2601084,111075,358286,639612,934566,557545,0,0,0,0,,2601083,,228577,5,Dallas-Fort Worth,17,16,5,5,4,5,Dallas-Fort Worth
+Denver,102264,405808,915879,1080509,1080509,1080509,1080509,1080509,1080509,,1080510,102264,303545,510071,164630,0,0,0,0,0,,1080509,,160218,19,Denver,20,23,11,17,18,18,Denver
+Detroit,77851,331899,778639,1423351,1953268,1953268,1953268,1953268,1953268,,1953268,77851,254048,446740,644712,529917,0,0,0,0,,1953268,,162785,15,Detroit,37,37,23,12,9,10,Detroit
+Grand Rapids,126383,530965,530965,530965,530965,530965,530965,530965,530965,,530965,126383,404582,0,0,0,0,0,0,0,,530965,,138471,30,Grand Rapids,8,9,45,45,45,45,Grand Rapids
+Virginia Beach,51947,229936,552406,573634,573634,573634,573634,573634,573634,,573635,51947,177990,322470,21228,0,0,0,0,0,,573634,,89396,50,Virginia Beach,51,50,40,41,41,41,Virginia Beach
+Hartford,110120,477771,567921,567921,567921,567921,567921,567921,567921,,567921,110120,367651,90150,0,0,0,0,0,0,,567921,,131886,31,Hartford,18,13,39,42,42,42,Hartford
+Honolulu,123731,320461,320461,320461,320461,320461,320461,320461,320461,,320461,123731,196730,0,0,0,0,0,0,0,,320461,,95315,49,Honolulu,10,41,51,51,51,51,Honolulu
+Houston,74926,304631,720473,1327461,1870780,1870780,1870780,1870780,1870780,,1870781,74926,229706,415842,606988,543319,0,0,0,0,,1870780,,152461,22,Houston,43,44,28,14,10,11,Houston
+Indianapolis,77505,337463,802613,813465,813465,813465,813465,813465,813465,,813465,77505,259957,465151,10852,0,0,0,0,0,,813465,,129950,33,Indianapolis,38,36,21,29,29,29,Indianapolis
+Riverside,120347,470951,877495,877495,877495,877495,877495,877495,877495,,877496,120347,350605,406544,0,0,0,0,0,0,,877495,,161742,18,Inland Empire,13,14,14,26,26,26,Inland Empire
+Jacksonville,59816,247342,497222,497222,497222,497222,497222,497222,497222,,497223,59816,187527,249880,0,0,0,0,0,0,,497222,,87406,51,Jacksonville,48,48,47,47,47,47,Jacksonville
+Kansas City,113674,480572,891412,891412,891412,891412,891412,891412,891412,,891412,113674,366898,410840,0,0,0,0,0,0,,891412,,162423,16,Kansas City,16,11,12,25,25,25,Kansas City
+Las Vegas,117543,470621,691875,691875,691875,691875,691875,691875,691875,,691874,117543,353077,221254,0,0,0,0,0,0,,691875,,144172,26,Las Vegas,14,15,29,33,33,33,Las Vegas
+Los Angeles,141243,597267,1404799,2548254,4034904,5298837,5298837,5298837,5298837,,5298836,141243,456024,807532,1143454,1486650,1263933,0,0,0,,5298837,,313033,2,Los Angeles,4,4,2,1,1,1,Los Angeles
+Louisville,75040,321038,516026,516026,516026,516026,516026,516026,516026,,516025,75040,245997,194988,0,0,0,0,0,0,,516026,,101073,48,Louisville,42,40,46,46,46,46,Louisville
+Memphis,76401,325062,537466,537466,537466,537466,537466,537466,537466,,537466,76401,248661,212404,0,0,0,0,0,0,,537466,,103802,46,Memphis,40,39,43,44,44,44,Memphis
+Milwaukee,106669,464063,781664,781664,781664,781664,781664,781664,781664,,781664,106669,357394,317601,0,0,0,0,0,0,,781664,,148898,23,Milwaukee,19,17,22,31,31,31,Milwaukee
+Minneapolis-St.Paul,101849,448818,1062261,1642398,1642398,1642398,1642398,1642398,1642398,,1642398,101849,346968,613444,580137,0,0,0,0,0,,1642398,,195114,9,Minneapolis-St.Paul,21,19,7,6,11,12,Minneapolis-St.Paul
+Nashville,85218,362541,634772,634772,634772,634772,634772,634772,634772,,634772,85218,277323,272231,0,0,0,0,0,0,,634772,,118978,40,Nashville,33,31,32,35,35,35,Nashville
+New Orleans,152355,541312,541312,541312,541312,541312,541312,541312,541312,,541312,152355,388957,0,0,0,0,0,0,0,,541312,,146987,24,New Orleans,3,8,42,43,43,43,New Orleans
+New York,116054,505201,1196603,2183555,3483335,5100017,7036953,7884550,7884550,,7884551,116054,389147,691402,986952,1299781,1616682,1936936,847597,0,,7884550,,279349,3,New York,15,10,4,3,2,2,New York
+Oklahoma City,88919,376503,441416,441416,441416,441416,441416,441416,441416,,441416,88919,287584,64913,0,0,0,0,0,0,,441416,,103905,45,Oklahoma City,30,27,50,50,50,50,Oklahoma City
+Orlando,67514,284882,664922,818126,818126,818126,818126,818126,818126,,818125,67514,217367,380040,153204,0,0,0,0,0,,818126,,114943,42,Orlando,46,45,30,28,28,28,Orlando
+Philadelphia,76950,340444,808060,1478740,2354557,2550674,2550674,2550674,2550674,,2550675,76950,263495,467615,670680,875818,196117,0,0,0,,2550674,,175189,11,Philadelphia,39,35,20,10,6,6,Philadelphia
+Phoenix,87258,355080,821577,1402830,1402830,1402830,1402830,1402830,1402830,,1402830,87258,267822,466497,581253,0,0,0,0,0,,1402830,,159293,20,Phoenix,31,33,17,13,15,15,Phoenix
+Pittsburgh,69548,313204,745835,1038641,1038641,1038641,1038641,1038641,1038641,,1038640,69548,243656,432630,292806,0,0,0,0,0,,1038641,,131626,32,Pittsburgh,44,43,26,21,23,23,Pittsburgh
+Portland,78418,313403,738058,877359,877359,877359,877359,877359,877359,,877359,78418,234985,424655,139301,0,0,0,0,0,,877359,,126880,34,Portland,36,42,27,27,27,27,Portland
+Providence,93648,401285,629305,629305,629305,629305,629305,629305,629305,,629306,93648,307638,228020,0,0,0,0,0,0,,629305,,124875,35,Providence,25,24,33,36,36,36,Providence
+Raleigh,130698,579732,614595,614595,614595,614595,614595,614595,614595,,614596,130698,449035,34863,0,0,0,0,0,0,,614595,,152547,21,Raleigh,7,6,34,37,37,37,Raleigh
+Rochester,120971,455184,455184,455184,455184,455184,455184,455184,455184,,455184,120971,334213,0,0,0,0,0,0,0,,455184,,121832,38,Rochester,12,18,49,49,49,49,Rochester
+Sacramento,69437,280346,585187,585187,585187,585187,585187,585187,585187,,585187,69437,210909,304841,0,0,0,0,0,0,,585187,,101436,47,Sacramento,45,46,37,39,39,39,Sacramento
+Salt Lake City,121279,478800,611285,611285,611285,611285,611285,611285,611285,,611285,121279,357521,132485,0,0,0,0,0,0,,611285,,138695,29,Salt Lake City,11,12,36,38,38,38,Salt Lake City
+San Antonio,89504,379568,635453,635453,635453,635453,635453,635453,635453,,635453,89504,290064,255885,0,0,0,0,0,0,,635453,,121993,37,San Antonio,28,26,31,34,34,34,San Antonio
+San Diego,65658,266244,612935,1081762,1081762,1081762,1081762,1081762,1081762,,1081762,65658,200586,346691,468827,0,0,0,0,0,,1081762,,120561,39,San Diego,47,47,35,16,17,17,San Diego
+San Francisco,225621,904627,2048499,2048499,2048499,2048499,2048499,2048499,2048499,,2048499,225621,679006,1143872,0,0,0,0,0,0,,2048499,,342237,1,San Francisco,1,1,1,4,8,9,San Francisco
+San Jose,165044,685651,1042998,1042998,1042998,1042998,1042998,1042998,1042998,,1042997,165044,520606,357347,0,0,0,0,0,0,,1042998,,211686,6,San Jose,2,2,8,20,21,21,San Jose
+Seattle,90378,361348,816533,1462960,1481715,1481715,1481715,1481715,1481715,,1481715,90378,270971,455184,646427,18755,0,0,0,0,,1481715,,163304,14,Seattle,26,32,18,11,14,14,Seattle
+Miami,90131,395286,917913,1485934,1485934,1485934,1485934,1485934,1485934,,1485934,90131,305155,522627,568021,0,0,0,0,0,,1485934,,172674,12,South Florida,27,25,10,9,13,13,South Florida
+St. Louis,76186,328249,778593,1220621,1220621,1220621,1220621,1220621,1220621,,1220620,76186,252062,450344,442028,0,0,0,0,0,,1220621,,143996,28,St. Louis,41,38,24,15,16,16,St. Louis
+Tampa Bay,53012,228331,534028,972302,1042912,1042912,1042912,1042912,1042912,,1042912,53012,175319,305697,438274,70610,0,0,0,0,,1042912,,106107,44,Tampa Bay,49,51,44,23,22,22,Tampa Bay
+Washington,78451,342743,832938,1549331,2278636,2278636,2278636,2278636,2278636,,2278636,78451,264292,490195,716393,729305,0,0,0,0,,2278636,,175639,10,Washington,35,34,16,8,7,7,Washington
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WEIGHTED AVERAGE ACROSS CITIES,103265.26378215803,437600.96462318517,937494.7522103171,1452782.3668584905,1935878.3108906618,2314755.733024411,2564170.4134840737,2661643.0865932796,2661643.0865932796,,,1,1,1,1,1,1,1,1,1,,,,0.81,,,TIME COHORT,,,,,,
+Beta,-0.08,,,,,,,,,,,,,,,,,,,,,,,,Weighted Average,Rank,10,20,30,40,50,60,Weighted Average
+,,,,,,,,,,,,,,,,,,,,,,,,,San Francisco,1,San Francisco,San Francisco,San Francisco,Los Angeles,Los Angeles,Los Angeles,San Francisco
+"Source of Beta: Levinson, David and Ajay Kumar (1995) A Multi-modal Trip Distribution Model. Transportation Research Record #1466: 124-131.",,,,,,,,,,,,,,,,,,,,,,,,,Los Angeles,2,San Jose,San Jose,Los Angeles,Boston,New York,New York,Los Angeles
+,,,,,,,,,,,,,,,,,,,,,,,,,New York,3,New Orleans,Columbus,Boston,New York,Boston,Chicago,New York
+,,,,,,,,,,,,,,,,,,,,,,,,,Boston,4,Los Angeles,Los Angeles,New York,San Francisco,Dallas-Fort Worth,Boston,Boston
+,,,,,,,,,,,,,,,,,,,,,,,,,Dallas-Fort Worth,5,Columbus,Cleveland,Dallas-Fort Worth,Dallas-Fort Worth,Chicago,Dallas-Fort Worth,Dallas-Fort Worth
+,,,,,,,,,,,,,,,,,,,,,,,,,San Jose,6,Cleveland,Raleigh,Cleveland,Minneapolis-St.Paul,Philadelphia,Philadelphia,San Jose
+,,,,,,,,,,,,,,,,,,,,,,,,,Chicago,7,Raleigh,Boston,Minneapolis-St.Paul,Chicago,Washington,Washington,Chicago
+,,,,,,,,,,,,,,,,,,,,,,,,,Cleveland,8,Grand Rapids,New Orleans,San Jose,Washington,San Francisco,Atlanta,Cleveland
+,,,,,,,,,,,,,,,,,,,,,,,,,Minneapolis-St.Paul,9,Boston,Grand Rapids,Baltimore,South Florida,Detroit,San Francisco,Minneapolis-St.Paul
+,,,,,,,,,,,,,,,,,,,,,,,,,Washington,10,Honolulu,New York,South Florida,Philadelphia,Houston,Detroit,Washington
+,,,,,,,,,,,,,,,,,,,,,,,,,Philadelphia,11,Salt Lake City,Kansas City,Denver,Seattle,Minneapolis-St.Paul,Houston,Philadelphia
+,,,,,,,,,,,,,,,,,,,,,,,,,South Florida,12,Rochester,Salt Lake City,Kansas City,Detroit,Atlanta,Minneapolis-St.Paul,South Florida
+,,,,,,,,,,,,,,,,,,,,,,,,,Columbus,13,Inland Empire,Hartford,Cincinnati,Phoenix,South Florida,South Florida,Columbus
+,,,,,,,,,,,,,,,,,,,,,,,,,Seattle,14,Las Vegas,Inland Empire,Inland Empire,Houston,Seattle,Seattle,Seattle
+,,,,,,,,,,,,,,,,,,,,,,,,,Detroit,15,New York,Las Vegas,Chicago,St. Louis,Phoenix,Phoenix,Detroit
+,,,,,,,,,,,,,,,,,,,,,,,,,Kansas City,16,Kansas City,Dallas-Fort Worth,Washington,San Diego,St. Louis,St. Louis,Kansas City
+,,,,,,,,,,,,,,,,,,,,,,,,,Baltimore,17,Dallas-Fort Worth,Milwaukee,Phoenix,Denver,San Diego,San Diego,Baltimore
+,,,,,,,,,,,,,,,,,,,,,,,,,Inland Empire,18,Hartford,Rochester,Seattle,Cleveland,Denver,Denver,Inland Empire
+,,,,,,,,,,,,,,,,,,,,,,,,,Denver,19,Milwaukee,Minneapolis-St.Paul,Charlotte,Baltimore,Cleveland,Cleveland,Denver
+,,,,,,,,,,,,,,,,,,,,,,,,,Phoenix,20,Denver,Charlotte,Philadelphia,San Jose,Baltimore,Baltimore,Phoenix
+,,,,,,,,,,,,,,,,,,,,,,,,,Raleigh,21,Minneapolis-St.Paul,Baltimore,Indianapolis,Pittsburgh,San Jose,San Jose,Raleigh
+,,,,,,,,,,,,,,,,,,,,,,,,,Houston,22,Charlotte,Buffalo,Milwaukee,Atlanta,Tampa Bay,Tampa Bay,Houston
+,,,,,,,,,,,,,,,,,,,,,,,,,Milwaukee,23,Buffalo,Denver,Detroit,Tampa Bay,Pittsburgh,Pittsburgh,Milwaukee
+,,,,,,,,,,,,,,,,,,,,,,,,,New Orleans,24,Baltimore,Providence,St. Louis,Cincinnati,Cincinnati,Cincinnati,New Orleans
+,,,,,,,,,,,,,,,,,,,,,,,,,Charlotte,25,Providence,South Florida,Columbus,Kansas City,Kansas City,Kansas City,Charlotte
+,,,,,,,,,,,,,,,,,,,,,,,,,Las Vegas,26,Seattle,San Antonio,Pittsburgh,Inland Empire,Inland Empire,Inland Empire,Las Vegas
+,,,,,,,,,,,,,,,,,,,,,,,,,Cincinnati,27,South Florida,Oklahoma City,Portland,Portland,Portland,Portland,Cincinnati
+,,,,,,,,,,,,,,,,,,,,,,,,,St. Louis,28,San Antonio,Cincinnati,Houston,Orlando,Orlando,Orlando,St. Louis
+,,,,,,,,,,,,,,,,,,,,,,,,,Salt Lake City,29,Austin,Chicago,Las Vegas,Indianapolis,Indianapolis,Indianapolis,Salt Lake City
+,,,,,,,,,,,,,,,,,,,,,,,,,Grand Rapids,30,Oklahoma City,Austin,Orlando,Charlotte,Charlotte,Charlotte,Grand Rapids
+,,,,,,,,,,,,,,,,,,,,,,,,,Hartford,31,Phoenix,Nashville,San Antonio,Milwaukee,Milwaukee,Milwaukee,Hartford
+,,,,,,,,,,,,,,,,,,,,,,,,,Pittsburgh,32,Chicago,Seattle,Nashville,Columbus,Columbus,Columbus,Pittsburgh
+,,,,,,,,,,,,,,,,,,,,,,,,,Indianapolis,33,Nashville,Phoenix,Providence,Las Vegas,Las Vegas,Las Vegas,Indianapolis
+,,,,,,,,,,,,,,,,,,,,,,,,,Portland,34,Cincinnati,Washington,Raleigh,San Antonio,San Antonio,San Antonio,Portland
+,,,,,,,,,,,,,,,,,,,,,,,,,Providence,35,Washington,Philadelphia,San Diego,Nashville,Nashville,Nashville,Providence
+,,,,,,,,,,,,,,,,,,,,,,,,,Atlanta,36,Portland,Indianapolis,Salt Lake City,Providence,Providence,Providence,Atlanta
+,,,,,,,,,,,,,,,,,,,,,,,,,San Antonio,37,Detroit,Detroit,Sacramento,Raleigh,Raleigh,Raleigh,San Antonio
+,,,,,,,,,,,,,,,,,,,,,,,,,Rochester,38,Indianapolis,St. Louis,Austin,Salt Lake City,Salt Lake City,Salt Lake City,Rochester
+,,,,,,,,,,,,,,,,,,,,,,,,,San Diego,39,Philadelphia,Memphis,Hartford,Sacramento,Sacramento,Sacramento,San Diego
+,,,,,,,,,,,,,,,,,,,,,,,,,Nashville,40,Memphis,Louisville,Virginia Beach,Austin,Austin,Austin,Nashville
+,,,,,,,,,,,,,,,,,,,,,,,,,Austin,41,St. Louis,Honolulu,Atlanta,Virginia Beach,Virginia Beach,Virginia Beach,Austin
+,,,,,,,,,,,,,,,,,,,,,,,,,Orlando,42,Louisville,Portland,New Orleans,Hartford,Hartford,Hartford,Orlando
+,,,,,,,,,,,,,,,,,,,,,,,,,Buffalo,43,Houston,Pittsburgh,Memphis,New Orleans,New Orleans,New Orleans,Buffalo
+,,,,,,,,,,,,,,,,,,,,,,,,,Tampa Bay,44,Pittsburgh,Houston,Tampa Bay,Memphis,Memphis,Memphis,Tampa Bay
+,,,,,,,,,,,,,,,,,,,,,,,,,Oklahoma City,45,Sacramento,Orlando,Grand Rapids,Grand Rapids,Grand Rapids,Grand Rapids,Oklahoma City
+,,,,,,,,,,,,,,,,,,,,,,,,,Memphis,46,Orlando,Sacramento,Louisville,Louisville,Louisville,Louisville,Memphis
+,,,,,,,,,,,,,,,,,,,,,,,,,Sacramento,47,San Diego,San Diego,Jacksonville,Jacksonville,Jacksonville,Jacksonville,Sacramento
+,,,,,,,,,,,,,,,,,,,,,,,,,Louisville,48,Jacksonville,Jacksonville,Buffalo,Buffalo,Buffalo,Buffalo,Louisville
+,,,,,,,,,,,,,,,,,,,,,,,,,Honolulu,49,Tampa Bay,Atlanta,Rochester,Rochester,Rochester,Rochester,Honolulu
+,,,,,,,,,,,,,,,,,,,,,,,,,Virginia Beach,50,Atlanta,Virginia Beach,Oklahoma City,Oklahoma City,Oklahoma City,Oklahoma City,Virginia Beach

@@ -1,0 +1,9 @@
+item,decision,reason
+paper/Giacomin-Levinson-2015-Road-network-circuity-in-metropolitan-areas-Environment-and-Planning-B.pdf,include,Published paper reference copy for local audit validation; review rights before public release.
+data/derived_workbooks/Regress.xlsx,include,Derived circuity/speed/regression workbook tied to paper tables/figures.
+data/derived_workbooks/Accessibility_Constrained-*.xlsx,include,Derived workbook sources linked to circuity/accessibility calculations in the local MSA Circuity analysis folder.
+data/derived_workbooks/complete-data.xls,include,Local supporting workbook in the analysis source folder; modern CSV export included.
+data/derived_workbooks/2010Summary.csv,include,Derived 2010 summary table from local analysis folder.
+data/csv_exports/*.csv,include,Modernized exports of workbook sheets for easier inspection.
+raw Census/TIGER GIS files,public_pointer_only,Public agency source data; cite source links rather than duplicating large/raw GIS downloads.
+LaTeX drafts/build products/reviewer response/figure PDFs,exclude,Non-archival paper production clutter for data/code package.

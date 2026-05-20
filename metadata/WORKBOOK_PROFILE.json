@@ -1,0 +1,634 @@
+[
+  {
+    "source_file": "Regress.xlsx",
+    "source_path": "/Users/dlev2617/Documents/Papers/~05-Published/Environment and Planning part B/EPb-Circuity EPB-2013-0131.R1/MSA Circuity April 2013/Regress.xlsx",
+    "size_bytes": 67781,
+    "exports": [
+      "Regress__Sheet1.csv",
+      "Regress__zetatrend.csv",
+      "Regress__Minneapolis_Distance_Circuity.csv"
+    ],
+    "workbook_type": "xlsx",
+    "sheets": [
+      {
+        "name": "Sheet1",
+        "max_row": 64,
+        "max_col": 29
+      },
+      {
+        "name": "zetatrend",
+        "max_row": 10,
+        "max_col": 17
+      },
+      {
+        "name": "Minneapolis Distance Circuity",
+        "max_row": 31,
+        "max_col": 12
+      }
+    ]
+  },
+  {
+    "source_file": "2010Summary.csv",
+    "source_path": "/Users/dlev2617/Documents/Papers/~05-Published/Environment and Planning part B/EPb-Circuity EPB-2013-0131.R1/MSA Circuity April 2013/Accessibility-3Decades/Spreadsheets/2010Summary.csv",
+    "size_bytes": 6521,
+    "exports": [
+      "2010Summary.csv"
+    ],
+    "workbook_type": "csv",
+    "sheets": [
+      {
+        "name": "csv",
+        "max_row": 52,
+        "max_col": null
+      }
+    ]
+  },
+  {
+    "source_file": "Accessibility_Constrained-1990.xlsx",
+    "source_path": "/Users/dlev2617/Documents/Papers/~05-Published/Environment and Planning part B/EPb-Circuity EPB-2013-0131.R1/MSA Circuity April 2013/Accessibility-3Decades/Spreadsheets/Accessibility_Constrained-1990.xlsx",
+    "size_bytes": 346980,
+    "exports": [
+      "Accessibility_Constrained-1990__1990.csv",
+      "Accessibility_Constrained-1990__1995.csv",
+      "Accessibility_Constrained-1990__2001.csv",
+      "Accessibility_Constrained-1990__1990-10.csv",
+      "Accessibility_Constrained-1990__1990-20.csv",
+      "Accessibility_Constrained-1990__1990-30.csv",
+      "Accessibility_Constrained-1990__1990-40.csv",
+      "Accessibility_Constrained-1990__1990-50.csv",
+      "Accessibility_Constrained-1990__1990-60.csv",
+      "Accessibility_Constrained-1990__1990-70.csv",
+      "Accessibility_Constrained-1990__1990-80.csv",
+      "Accessibility_Constrained-1990__1990-90.csv",
+      "Accessibility_Constrained-1990__Summary-1990.csv",
+      "Accessibility_Constrained-1990__Interval_Circuities.csv"
+    ],
+    "workbook_type": "xlsx",
+    "sheets": [
+      {
+        "name": "1990",
+        "max_row": 64,
+        "max_col": 17
+      },
+      {
+        "name": "1995",
+        "max_row": 63,
+        "max_col": 17
+      },
+      {
+        "name": "2001",
+        "max_row": 64,
+        "max_col": 17
+      },
+      {
+        "name": "1990-10",
+        "max_row": 69,
+        "max_col": 18
+      },
+      {
+        "name": "1990-20",
+        "max_row": 54,
+        "max_col": 18
+      },
+      {
+        "name": "1990-30",
+        "max_row": 54,
+        "max_col": 18
+      },
+      {
+        "name": "1990-40",
+        "max_row": 54,
+        "max_col": 18
+      },
+      {
+        "name": "1990-50",
+        "max_row": 54,
+        "max_col": 18
+      },
+      {
+        "name": "1990-60",
+        "max_row": 54,
+        "max_col": 18
+      },
+      {
+        "name": "1990-70",
+        "max_row": 54,
+        "max_col": 18
+      },
+      {
+        "name": "1990-80",
+        "max_row": 54,
+        "max_col": 18
+      },
+      {
+        "name": "1990-90",
+        "max_row": 54,
+        "max_col": 18
+      },
+      {
+        "name": "Summary-1990",
+        "max_row": 105,
+        "max_col": 33
+      },
+      {
+        "name": "Interval Circuities",
+        "max_row": 54,
+        "max_col": 29
+      }
+    ]
+  },
+  {
+    "source_file": "Accessibility_Constrained-2000.xlsx",
+    "source_path": "/Users/dlev2617/Documents/Papers/~05-Published/Environment and Planning part B/EPb-Circuity EPB-2013-0131.R1/MSA Circuity April 2013/Accessibility-3Decades/Spreadsheets/Accessibility_Constrained-2000.xlsx",
+    "size_bytes": 347514,
+    "exports": [
+      "Accessibility_Constrained-2000__1990.csv",
+      "Accessibility_Constrained-2000__1995.csv",
+      "Accessibility_Constrained-2000__2001.csv",
+      "Accessibility_Constrained-2000__2000-10.csv",
+      "Accessibility_Constrained-2000__2000-20.csv",
+      "Accessibility_Constrained-2000__2000-30.csv",
+      "Accessibility_Constrained-2000__2000-40.csv",
+      "Accessibility_Constrained-2000__2000-50.csv",
+      "Accessibility_Constrained-2000__2000-60.csv",
+      "Accessibility_Constrained-2000__2000-70.csv",
+      "Accessibility_Constrained-2000__2000-80.csv",
+      "Accessibility_Constrained-2000__2000-90.csv",
+      "Accessibility_Constrained-2000__Summary-2000.csv",
+      "Accessibility_Constrained-2000__Interval_Circuities.csv"
+    ],
+    "workbook_type": "xlsx",
+    "sheets": [
+      {
+        "name": "1990",
+        "max_row": 64,
+        "max_col": 17
+      },
+      {
+        "name": "1995",
+        "max_row": 63,
+        "max_col": 17
+      },
+      {
+        "name": "2001",
+        "max_row": 64,
+        "max_col": 17
+      },
+      {
+        "name": "2000-10",
+        "max_row": 67,
+        "max_col": 18
+      },
+      {
+        "name": "2000-20",
+        "max_row": 54,
+        "max_col": 18
+      },
+      {
+        "name": "2000-30",
+        "max_row": 54,
+        "max_col": 18
+      },
+      {
+        "name": "2000-40",
+        "max_row": 54,
+        "max_col": 18
+      },
+      {
+        "name": "2000-50",
+        "max_row": 54,
+        "max_col": 18
+      },
+      {
+        "name": "2000-60",
+        "max_row": 54,
+        "max_col": 18
+      },
+      {
+        "name": "2000-70",
+        "max_row": 54,
+        "max_col": 18
+      },
+      {
+        "name": "2000-80",
+        "max_row": 54,
+        "max_col": 18
+      },
+      {
+        "name": "2000-90",
+        "max_row": 54,
+        "max_col": 18
+      },
+      {
+        "name": "Summary-2000",
+        "max_row": 105,
+        "max_col": 33
+      },
+      {
+        "name": "Interval Circuities",
+        "max_row": 54,
+        "max_col": 29
+      }
+    ]
+  },
+  {
+    "source_file": "Accessibility_Constrained-2010postInrix.xlsx",
+    "source_path": "/Users/dlev2617/Documents/Papers/~05-Published/Environment and Planning part B/EPb-Circuity EPB-2013-0131.R1/MSA Circuity April 2013/Accessibility-3Decades/Spreadsheets/Accessibility_Constrained-2010postInrix.xlsx",
+    "size_bytes": 338114,
+    "exports": [
+      "Accessibility_Constrained-2010postInrix__1990.csv",
+      "Accessibility_Constrained-2010postInrix__1995.csv",
+      "Accessibility_Constrained-2010postInrix__2001.csv",
+      "Accessibility_Constrained-2010postInrix__2010-10.csv",
+      "Accessibility_Constrained-2010postInrix__2010-20.csv",
+      "Accessibility_Constrained-2010postInrix__2010-30.csv",
+      "Accessibility_Constrained-2010postInrix__2010-40.csv",
+      "Accessibility_Constrained-2010postInrix__2010-50.csv",
+      "Accessibility_Constrained-2010postInrix__2010-60.csv",
+      "Accessibility_Constrained-2010postInrix__2010-70.csv",
+      "Accessibility_Constrained-2010postInrix__2010-80.csv",
+      "Accessibility_Constrained-2010postInrix__2010-90.csv",
+      "Accessibility_Constrained-2010postInrix__Summary-2010.csv",
+      "Accessibility_Constrained-2010postInrix__Interval_Circuities.csv"
+    ],
+    "workbook_type": "xlsx",
+    "sheets": [
+      {
+        "name": "1990",
+        "max_row": 64,
+        "max_col": 17
+      },
+      {
+        "name": "1995",
+        "max_row": 63,
+        "max_col": 17
+      },
+      {
+        "name": "2001",
+        "max_row": 64,
+        "max_col": 17
+      },
+      {
+        "name": "2010-10",
+        "max_row": 66,
+        "max_col": 20
+      },
+      {
+        "name": "2010-20",
+        "max_row": 53,
+        "max_col": 18
+      },
+      {
+        "name": "2010-30",
+        "max_row": 53,
+        "max_col": 18
+      },
+      {
+        "name": "2010-40",
+        "max_row": 53,
+        "max_col": 18
+      },
+      {
+        "name": "2010-50",
+        "max_row": 53,
+        "max_col": 18
+      },
+      {
+        "name": "2010-60",
+        "max_row": 53,
+        "max_col": 18
+      },
+      {
+        "name": "2010-70",
+        "max_row": 53,
+        "max_col": 18
+      },
+      {
+        "name": "2010-80",
+        "max_row": 53,
+        "max_col": 18
+      },
+      {
+        "name": "2010-90",
+        "max_row": 53,
+        "max_col": 18
+      },
+      {
+        "name": "Summary-2010",
+        "max_row": 105,
+        "max_col": 33
+      },
+      {
+        "name": "Interval Circuities",
+        "max_row": 54,
+        "max_col": 28
+      }
+    ]
+  },
+  {
+    "source_file": "Accessibility_Constrained-2010preInrix.xlsx",
+    "source_path": "/Users/dlev2617/Documents/Papers/~05-Published/Environment and Planning part B/EPb-Circuity EPB-2013-0131.R1/MSA Circuity April 2013/Accessibility-3Decades/Spreadsheets/Accessibility_Constrained-2010preInrix.xlsx",
+    "size_bytes": 315912,
+    "exports": [
+      "Accessibility_Constrained-2010preInrix__1990.csv",
+      "Accessibility_Constrained-2010preInrix__1995.csv",
+      "Accessibility_Constrained-2010preInrix__2001.csv",
+      "Accessibility_Constrained-2010preInrix__2010-10.csv",
+      "Accessibility_Constrained-2010preInrix__2010-20.csv",
+      "Accessibility_Constrained-2010preInrix__2010-30.csv",
+      "Accessibility_Constrained-2010preInrix__2010-40.csv",
+      "Accessibility_Constrained-2010preInrix__2010-50.csv",
+      "Accessibility_Constrained-2010preInrix__2010-60.csv",
+      "Accessibility_Constrained-2010preInrix__2010-70.csv",
+      "Accessibility_Constrained-2010preInrix__2010-80.csv",
+      "Accessibility_Constrained-2010preInrix__2010-90.csv",
+      "Accessibility_Constrained-2010preInrix__Summary-2010.csv",
+      "Accessibility_Constrained-2010preInrix__Interval_Circuities.csv"
+    ],
+    "workbook_type": "xlsx",
+    "sheets": [
+      {
+        "name": "1990",
+        "max_row": 64,
+        "max_col": 17
+      },
+      {
+        "name": "1995",
+        "max_row": 63,
+        "max_col": 17
+      },
+      {
+        "name": "2001",
+        "max_row": 64,
+        "max_col": 17
+      },
+      {
+        "name": "2010-10",
+        "max_row": 66,
+        "max_col": 20
+      },
+      {
+        "name": "2010-20",
+        "max_row": 53,
+        "max_col": 18
+      },
+      {
+        "name": "2010-30",
+        "max_row": 53,
+        "max_col": 18
+      },
+      {
+        "name": "2010-40",
+        "max_row": 53,
+        "max_col": 18
+      },
+      {
+        "name": "2010-50",
+        "max_row": 53,
+        "max_col": 18
+      },
+      {
+        "name": "2010-60",
+        "max_row": 53,
+        "max_col": 18
+      },
+      {
+        "name": "2010-70",
+        "max_row": 53,
+        "max_col": 18
+      },
+      {
+        "name": "2010-80",
+        "max_row": 53,
+        "max_col": 18
+      },
+      {
+        "name": "2010-90",
+        "max_row": 53,
+        "max_col": 18
+      },
+      {
+        "name": "Summary-2010",
+        "max_row": 105,
+        "max_col": 33
+      },
+      {
+        "name": "Interval Circuities",
+        "max_row": 53,
+        "max_col": 10
+      }
+    ]
+  },
+  {
+    "source_file": "Accessibility_Constrained-2012postInrix.xlsx",
+    "source_path": "/Users/dlev2617/Documents/Papers/~05-Published/Environment and Planning part B/EPb-Circuity EPB-2013-0131.R1/MSA Circuity April 2013/Accessibility-3Decades/Spreadsheets/Accessibility_Constrained-2012postInrix.xlsx",
+    "size_bytes": 648542,
+    "exports": [
+      "Accessibility_Constrained-2012postInrix__1990.csv",
+      "Accessibility_Constrained-2012postInrix__1995.csv",
+      "Accessibility_Constrained-2012postInrix__2001.csv",
+      "Accessibility_Constrained-2012postInrix__HPMS.csv",
+      "Accessibility_Constrained-2012postInrix__Speeds.csv",
+      "Accessibility_Constrained-2012postInrix__oldspeed.csv",
+      "Accessibility_Constrained-2012postInrix__2010-10.csv",
+      "Accessibility_Constrained-2012postInrix__2010-20.csv",
+      "Accessibility_Constrained-2012postInrix__2010-30.csv",
+      "Accessibility_Constrained-2012postInrix__2010-40.csv",
+      "Accessibility_Constrained-2012postInrix__2010-50.csv",
+      "Accessibility_Constrained-2012postInrix__2010-60.csv",
+      "Accessibility_Constrained-2012postInrix__2010-70.csv",
+      "Accessibility_Constrained-2012postInrix__2010-80.csv",
+      "Accessibility_Constrained-2012postInrix__2010-90.csv",
+      "Accessibility_Constrained-2012postInrix__Interval_Circuities.csv",
+      "Accessibility_Constrained-2012postInrix__Complete2011.csv",
+      "Accessibility_Constrained-2012postInrix__Summary-2010.csv",
+      "Accessibility_Constrained-2012postInrix__Summary-2000.csv",
+      "Accessibility_Constrained-2012postInrix__Summary-1990.csv",
+      "Accessibility_Constrained-2012postInrix__Trends2010-1990.csv",
+      "Accessibility_Constrained-2012postInrix__Trends2010-2000.csv",
+      "Accessibility_Constrained-2012postInrix__Trends2000-1990.csv",
+      "Accessibility_Constrained-2012postInrix__ChangeInRank2010-1990.csv",
+      "Accessibility_Constrained-2012postInrix__ChangeInRank2010-2000.csv",
+      "Accessibility_Constrained-2012postInrix__ChangeInRank2000-1990.csv",
+      "Accessibility_Constrained-2012postInrix__For_Report.csv",
+      "Accessibility_Constrained-2012postInrix__Total_Employment.csv",
+      "Accessibility_Constrained-2012postInrix__CongestedSpeeds_kmh.csv",
+      "Accessibility_Constrained-2012postInrix__CircuityTrends.csv",
+      "Accessibility_Constrained-2012postInrix__US_AVERAGE_TRENDS.csv"
+    ],
+    "workbook_type": "xlsx",
+    "sheets": [
+      {
+        "name": "1990",
+        "max_row": 64,
+        "max_col": 17
+      },
+      {
+        "name": "1995",
+        "max_row": 63,
+        "max_col": 17
+      },
+      {
+        "name": "2001",
+        "max_row": 64,
+        "max_col": 17
+      },
+      {
+        "name": "HPMS",
+        "max_row": 74,
+        "max_col": 21
+      },
+      {
+        "name": "Speeds",
+        "max_row": 158,
+        "max_col": 29
+      },
+      {
+        "name": "oldspeed",
+        "max_row": 49,
+        "max_col": 9
+      },
+      {
+        "name": "2010-10",
+        "max_row": 68,
+        "max_col": 23
+      },
+      {
+        "name": "2010-20",
+        "max_row": 53,
+        "max_col": 23
+      },
+      {
+        "name": "2010-30",
+        "max_row": 53,
+        "max_col": 23
+      },
+      {
+        "name": "2010-40",
+        "max_row": 53,
+        "max_col": 23
+      },
+      {
+        "name": "2010-50",
+        "max_row": 53,
+        "max_col": 23
+      },
+      {
+        "name": "2010-60",
+        "max_row": 53,
+        "max_col": 23
+      },
+      {
+        "name": "2010-70",
+        "max_row": 53,
+        "max_col": 23
+      },
+      {
+        "name": "2010-80",
+        "max_row": 53,
+        "max_col": 23
+      },
+      {
+        "name": "2010-90",
+        "max_row": 53,
+        "max_col": 23
+      },
+      {
+        "name": "Interval Circuities",
+        "max_row": 54,
+        "max_col": 28
+      },
+      {
+        "name": "Complete2011",
+        "max_row": 113,
+        "max_col": 54
+      },
+      {
+        "name": "Summary-2010",
+        "max_row": 106,
+        "max_col": 34
+      },
+      {
+        "name": "Summary-2000",
+        "max_row": 105,
+        "max_col": 34
+      },
+      {
+        "name": "Summary-1990",
+        "max_row": 105,
+        "max_col": 34
+      },
+      {
+        "name": "Trends2010-1990",
+        "max_row": 106,
+        "max_col": 36
+      },
+      {
+        "name": "Trends2010-2000",
+        "max_row": 106,
+        "max_col": 35
+      },
+      {
+        "name": "Trends2000-1990",
+        "max_row": 106,
+        "max_col": 34
+      },
+      {
+        "name": "ChangeInRank2010-1990",
+        "max_row": 54,
+        "max_col": 31
+      },
+      {
+        "name": "ChangeInRank2010-2000",
+        "max_row": 53,
+        "max_col": 31
+      },
+      {
+        "name": "ChangeInRank2000-1990",
+        "max_row": 53,
+        "max_col": 31
+      },
+      {
+        "name": "For Report",
+        "max_row": 60,
+        "max_col": 7
+      },
+      {
+        "name": "Total Employment",
+        "max_row": 54,
+        "max_col": 6
+      },
+      {
+        "name": "CongestedSpeeds kmh",
+        "max_row": 54,
+        "max_col": 6
+      },
+      {
+        "name": "CircuityTrends",
+        "max_row": 55,
+        "max_col": 6
+      },
+      {
+        "name": "US AVERAGE TRENDS",
+        "max_row": 4,
+        "max_col": 10
+      }
+    ]
+  },
+  {
+    "source_file": "complete-data.xls",
+    "source_path": "/Users/dlev2617/Documents/Papers/~05-Published/Environment and Planning part B/EPb-Circuity EPB-2013-0131.R1/MSA Circuity April 2013/Accessibility-3Decades/Spreadsheets/complete-data.xls",
+    "size_bytes": 1204224,
+    "exports": [
+      "complete-data__umr_2012_big_spreadsheet.csv"
+    ],
+    "workbook_type": "xls",
+    "sheets": [
+      {
+        "name": "umr_2012_big_spreadsheet",
+        "max_row": 3223,
+        "max_col": 53
+      }
+    ]
+  }
+]
