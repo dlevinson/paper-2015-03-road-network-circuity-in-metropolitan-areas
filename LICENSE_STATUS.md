@@ -1,6 +1,6 @@
 # License Status: Road Network Circuity in Metropolitan Areas
 
-Generated: 2026-05-20 14:46:37 AEST
+Generated: 2026-05-20 15:23:47 AEST
 
 Recorded license/access note from the verified audit row: Derived local workbook package; underlying source road GIS is public Census/TIGER data subject to Census terms.
 
