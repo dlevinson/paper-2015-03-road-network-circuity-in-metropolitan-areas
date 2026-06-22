@@ -1,5 +1,9 @@
 # Road Network Circuity in Metropolitan Areas
 
+## Contribution
+
+This paper provides a comparative measure of road-network directness across the 51 largest U.S. metropolitan areas and tracks its change from 1990 to 2010. It documents a broad increase in circuity, especially for shorter trips, and introduces a distance-decay function for describing how network inefficiency varies with trip length.
+
 ## Bibliographic Information
 
 - Row ID: `paper-2015-03`
