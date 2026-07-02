@@ -30,6 +30,14 @@ Ready for public upload review. The package contains derived workbook data and m
 
 Raw Census/TIGER road-network GIS downloads, MSA boundary source files, manuscript drafts, response letters, LaTeX build products, and figure-only PDFs are not included.
 
+## Rights And Provenance
+
+The root `LICENSE` applies CC BY 4.0 only to rights-cleared author-created repository documentation, package metadata, source-decision notes, workbook profiles, and author-created selection, cleaning, integration, workbook organization, formulas, tabulation, summary measures, circuity/accessibility calculations, and modernized CSV exports reflected in `data/derived_workbooks/` and `data/csv_exports/`.
+
+No software license is asserted because no executable software, scripts, notebooks, model source code, ArcGIS/Network Analyst scripts, or paper-specific runtime code are staged.
+
+Publication PDFs and proof PDFs, raw Census/TIGER road-network GIS files, MSA boundary files, Census geography definitions, HPMS records, NHTS records, Urban Mobility Report source tables, INRIX or speed source records, public-agency source materials, manuscript drafts, reviewer responses, LaTeX/build products, figure-only PDFs, vendor file-format structures, cited references, and other third-party materials retain their original terms and are not relicensed by this repository.
+
 
 
 <!-- published-paper-reference:start -->
@@ -52,10 +60,10 @@ Raw Census/TIGER road-network GIS downloads, MSA boundary source files, manuscri
 <!-- package-hardening-status:start -->
 ## Package Hardening Status
 
-Generated: 2026-05-20 15:23:47 AEST
+Generated: 2026-07-02 11:01:46 AEST
 
 - Pipeline: `UPLOADED`
-- Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
+- Sidecars added/updated: `LICENSE`, `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
 - Paper reference copies are for local audit convenience and are not public-upload assets without rights review.
-- Final GitHub upload should use the manifest include statuses and the license-status note.
+- Final GitHub upload should use the manifest include statuses and the root license boundary.
 <!-- package-hardening-status:end -->

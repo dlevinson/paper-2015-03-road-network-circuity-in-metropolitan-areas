@@ -1,13 +1,15 @@
 # License Status: Road Network Circuity in Metropolitan Areas
 
-Generated: 2026-05-20 15:23:47 AEST
+Generated: 2026-07-02 11:01:46 AEST
 
-Recorded license/access note from the verified audit row: Derived local workbook package; underlying source road GIS is public Census/TIGER data subject to Census terms.
+Root license file: `LICENSE`
 
-Before public GitHub upload, add an explicit license for author-created code/data or mark the package as citation/provenance-only. Do not license third-party raw data or publisher PDFs.
+The root license applies CC BY 4.0 only to rights-cleared author-created repository documentation, package metadata, source-decision notes, workbook profiles, and author-created selection, cleaning, integration, workbook organization, formulas, tabulation, summary measures, circuity/accessibility calculations, and modernized CSV exports reflected in the staged derived workbooks and CSV exports.
+
+No software license is asserted because no executable software, scripts, notebooks, model source code, ArcGIS/Network Analyst scripts, or paper-specific runtime code are staged.
 
 ## Practical Rule
 
-- Author-created code can receive an explicit software license only after finality/provenance is confirmed.
-- Author-created data/derived tables can receive an explicit data/documentation license only after source rights are clear.
-- Third-party raw data and publisher PDFs are not relicensed here.
+- Publication PDFs and proof PDFs retain their publication, repository, or manuscript terms.
+- Raw Census/TIGER road-network GIS files, MSA boundary files, Census geography definitions, HPMS records, NHTS records, Urban Mobility Report source tables, INRIX or speed source records, public-agency source materials, and other source data retain their original terms.
+- Manuscript drafts, reviewer responses, LaTeX/build products, figure-only PDFs, vendor file-format structures, cited references, and third-party materials are not relicensed here.
