@@ -1,0 +1,43 @@
+Repository License And Provenance Boundary
+
+Copyright (c) 2015-2026 David J. Giacomin and David M. Levinson
+
+This repository is a mixed research package. The license below applies only
+to materials that the paper authors or repository maintainers have rights to
+license, and it does not relicense excluded, public-agency, publisher, or
+third-party source materials.
+
+## Creative Commons Attribution 4.0 International
+
+Author-created repository documentation, package metadata, source-decision
+notes, workbook profiles, and rights-cleared derived circuity/accessibility
+workbook content and CSV exports are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0):
+
+https://creativecommons.org/licenses/by/4.0/
+
+This includes author-created selection, cleaning, integration, workbook
+organization, formulas, tabulation, summary measures, circuity/accessibility
+calculations, and modernized CSV exports reflected in `data/derived_workbooks/`
+and `data/csv_exports/`, only to the extent controlled by the paper authors or
+repository maintainers.
+
+## Materials Not Relicensed
+
+This repository license does not apply to:
+
+- Publication PDFs, proof PDFs, and publisher or repository copies under
+  `paper/` or `documentation/nonfinal_paper_context/`.
+- Raw Census/TIGER road-network GIS files, MSA boundary files, Census
+  geography definitions, HPMS records, NHTS records, Urban Mobility Report
+  source tables, INRIX or speed source records, public-agency source materials,
+  and other source data used to construct the derived workbooks.
+- Manuscript drafts, reviewer responses, LaTeX/build products, figure-only
+  PDFs, vendor file-format structures, cited references, and other
+  third-party materials.
+
+## Software Boundary
+
+No executable software, scripts, notebooks, model source code, ArcGIS/Network
+Analyst scripts, or paper-specific runtime code are staged in this repository.
+This root license therefore grants no separate software license.
